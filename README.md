@@ -107,12 +107,11 @@
 anime-vision-from-scratch/
 │
 ├─ README.md
-├─ .gitignore
 │
 └─ notebooks/
    ├─ 1.機器學習與深度學習.ipynb
-   ├─ 2.圖轉矩陣.ipynb
-   ├─ 3.卷積練習.ipynb
+   ├─ 2.卷積練習.ipynb
+   ├─ 3.圖轉矩陣.ipynb
    └─ 4.特徵圖.ipynb
 ```
 
